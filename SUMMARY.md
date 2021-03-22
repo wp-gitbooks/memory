@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [JVM](jvm-nei-cun.md)
-* [Android内存](android-nei-cun.md)
+* [JVM](JVM内存.md)
+* [Android内存](Android内存.md)
 
 ## Part I
 
