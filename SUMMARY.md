@@ -7,9 +7,9 @@
 
 ## Part I
 
-* [Introduction](part-i/readme.md)
-* [Writing is nice](part-i/writing-is-nice.md)
-* [GitBook is nice](part-i/gitbook-is-nice.md)
+* [Introduction](JVM内存/readme.md)
+* [Writing is nice](JVM内存/writing-is-nice.md)
+* [GitBook is nice](JVM内存/gitbook-is-nice.md)
 
 ## Part II
 
