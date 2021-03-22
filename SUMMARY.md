@@ -5,7 +5,7 @@
 * [Android内存](Android内存.md)
 * [虚拟机执行子系统](虚拟机执行子系统.md)
 
-## Part I
+## JVM内存
 
 * [Introduction](JVM内存/readme.md)
 * [Writing is nice](JVM内存/writing-is-nice.md)
