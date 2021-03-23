@@ -9,7 +9,7 @@
 
 * [概述](JVM内存/0-概述.md)
 * [对象访问](JVM内存/1-对象访问.md)
-* [内存分配](JVM内存/gitbook-is-nice.md)
+* [内存分配](JVM内存/2-内存分配.md)
 
 ## Part II
 
