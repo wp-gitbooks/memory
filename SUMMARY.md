@@ -7,8 +7,8 @@
 
 ## JVM内存
 
-* [Introduction](JVM内存/readme.md)
-* [Writing is nice](JVM内存/writing-is-nice.md)
+* [Introduction](JVM内存/0-概述.md)
+* [Writing is nice](JVM内存/1-对象访问.md)
 * [GitBook is nice](JVM内存/gitbook-is-nice.md)
 
 ## Part II
