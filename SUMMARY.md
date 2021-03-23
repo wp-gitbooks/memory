@@ -11,10 +11,12 @@
     * [对象访问](0-JVM内存/1-对象访问.md)
 * [内存分配与回收](0-JVM内存/2-内存分配与回收.md)
 
-## Part II
+## 虚拟机执行子系统
 
-* [We love feedback](part-ii/we-love-feedback.md)
-* [Better tools for authors](part-ii/better-tools-for-authors.md)
+* [类文件结构](1-虚拟机执行子系统/0-类文件结构.md)
+* [类加载过程](1-虚拟机执行子系统/1-类加载过程.md)
+* [类加载器](1-虚拟机执行子系统/2-类加载器.md)
+* [虚拟机字节码执行引擎](1-虚拟机执行子系统/3-虚拟机字节码执行引擎.md)
 
 ---
 
